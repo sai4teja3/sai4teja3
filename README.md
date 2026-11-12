@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sai Teja Pothula 👋
 
-<!--
-**sai4teja3/sai4teja3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer based in Hyderabad, India, with nearly 5 years of experience building Python backends and React frontends.
 
-Here are some ideas to get you started:
+## What I work with
+- **Backend:** Python, Django, Django REST Framework, Flask, Celery, Redis
+- **Frontend:** React, TypeScript
+- **Data & messaging:** PostgreSQL, MongoDB, Kafka
+- **DevOps:** Docker, Jenkins CI/CD, AWS, Grafana, Prometheus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+- Real-time vehicle tracking platform (Django, WebSockets, React, maps)
+- Survey management platform (Django REST, React)
+- Healthcare job platform APIs (Flask, MongoDB, Kafka)
+- HR leave chatbot (Rasa, Telegram)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/sai-teja-pothula/)
